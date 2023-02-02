@@ -14,5 +14,5 @@
   ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   
-#### always looking for knowledge and to be a better person 🤓
+#### Always looking for knowledge and to be a better person 🤓
   
