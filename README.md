@@ -6,7 +6,7 @@
 
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphafulldev&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia
+## Estudando atualmente
   
   ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
