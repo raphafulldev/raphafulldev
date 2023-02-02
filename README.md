@@ -6,7 +6,7 @@
 
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphafulldev&show_icons=true&theme=radical)
 
-## Estudando atualmente
+## Studying at this moment
   
   ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -14,5 +14,5 @@
   ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   
-#### Apaixonado por tecnologia e sempre em busca do conhecimento 🤓
+#### always looking for knowledge and to be a better person 🤓
   
