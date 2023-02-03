@@ -1,8 +1,6 @@
 ### Hello World! 🤚🏻 
 ## I'm Raphael B Barreto and i have a dream to become a BackEnd java developer ☕
 
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphafulldev&show_icons=true&theme=radical)
-
 ## Languages and Technlogies (Learning)
 
 <div style="display: inline_block"><br>
@@ -14,9 +12,6 @@
   
 </div>
 
-  
-#### Always looking for knowledge and to be a better person 🤓
-
 ## Contact
 ![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) +55 (85) 9 9435-0578
 
@@ -25,5 +20,8 @@
 <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/raphael-barros-376583264/)
 
+![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphafulldev&show_icons=true&theme=radical)
+
+#### Always looking for knowledge and to be a better person 🤓
   
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
