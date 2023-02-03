@@ -1,5 +1,5 @@
 ### Hello World! 🤚🏻 
-## I'm Raphael B Barreto and i have a dream to become a BackEnd java developer ☕
+## I'm Raphael B Barreto and I have a dream to become a BackEnd java developer ☕
 
 ## Languages and Technlogies (Learning)
 
