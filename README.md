@@ -1,5 +1,5 @@
 ### Hello World! 🤚🏻 
-## I'm Raphael B Barreto / JAVA developer ☕
+## I'm Raphael Barreto / Junior developer ☕
 
 ## Languages and Technlogies 
 
