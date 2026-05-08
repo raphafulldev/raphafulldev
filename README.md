@@ -1,26 +1,108 @@
-### Hello World! 🤚🏻 
-## I'm Raphael Barreto / Junior developer ☕
+<div align="center">
 
-## Languages and Technlogies 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Raphael%20Barreto&fontSize=50&fontColor=4fc3f7&animation=fadeIn&fontAlignY=38&desc=Back-End%20Java%20Developer&descAlignY=60&descColor=90caf9" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Rafa-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  
 </div>
 
-## Contact
+---
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) raphaelbarreto.dev@gmail.com
+<div align="center">
 
-<a href="https://instagram.com/phael_barros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/raphael-barros-376583264/)
+### 🇧🇷 Português | 🇮🇪 English below
 
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphafulldev&show_icons=true&theme=radical)
+</div>
 
-#### Always looking for knowledge and to be a better person 🤓
-  
+---
+
+## 👨‍💻 Sobre mim | About Me
+
+🇧🇷 **PT-BR**
+
+Desenvolvedor Back-End especializado em **Java + Spring Boot**, com formação em Análise e Desenvolvimento de Sistemas. Sou apaixonado por construir APIs robustas, escaláveis e bem documentadas.
+
+Morei e trabalhei na **Irlanda por 2 anos**, o que me deu fluência em inglês e experiência em ambientes multiculturais e de alta exigência. Hoje, de volta ao Brasil, estou totalmente focado em construir minha carreira como desenvolvedor e contribuir com times de alto impacto — **100% remoto**.
+
+---
+
+🇬🇧 **EN**
+
+Back-End Developer specialized in **Java + Spring Boot**, with a degree in Systems Analysis and Development. I'm passionate about building robust, scalable, and well-documented APIs.
+
+I lived and worked in **Ireland for 2 years**, which gave me full English fluency and experience in high-demand, multicultural environments. Currently based in Brazil, I'm fully focused on building my tech career and contributing to high-impact teams — **100% remote**.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0277BD?style=for-the-badge&logo=databricks&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque | Featured Projects
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [**Pessoas API**](https://github.com/raphafulldev/pessoas-api) | REST API completa com CRUD de pessoas e endereços, testes unitários e banco H2 | Java, Spring Boot, JPA, H2 |
+| [**ParkControl API**](https://github.com/raphafulldev/ParkControl-API) | Sistema de controle de estacionamento com gerenciamento de vagas | Java, Spring Boot, MySQL |
+| [**Book Store**](https://github.com/raphafulldev/Book-Store) | API de livraria com gerenciamento de livros e autores | Java, Spring Boot |
+| [**Task Manager**](https://github.com/raphafulldev/Task-Manager) | Gerenciador de tarefas com operações CRUD | Java, Spring Boot |
+| [**Workshop Spring + MongoDB**](https://github.com/raphafulldev/workshop-spring-boot-mongodb) | Integração Spring Boot com banco NoSQL MongoDB | Java, Spring Boot, MongoDB |
+| [**Workshop Spring + JPA**](https://github.com/raphafulldev/workshop-springboot3-jpa) | Projeto relacional completo com Spring Boot 3 e JPA/MySQL | Java, Spring Boot 3, MySQL |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphafulldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphafulldev&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌍 Languages | Idiomas
+
+- 🇧🇷 **Português** — Nativo
+- 🇬🇧 **English** — Fluent (2 years living and working in Ireland 🍀)
+
+---
+
+## 📫 Contato | Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-barreto-devbackjava/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelbarreto.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphafulldev)
+
+**💼 Open to remote opportunities | Aberto a oportunidades remotas**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer"/>
+
+</div>
 
