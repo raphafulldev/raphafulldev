@@ -16,20 +16,26 @@
 
 ## 👨‍💻 Sobre mim | About Me
 
-🇧🇷 **PT-BR**
+# Hi, I'm Raphael Barreto
 
-Desenvolvedor Back-End especializado em **Java + Spring Boot**, com formação em Análise e Desenvolvimento de Sistemas. Sou apaixonado por construir APIs robustas, escaláveis e bem documentadas.
+Junior Full-Stack / Mobile Developer focused on building real-world applications with **Java, Spring Boot, TypeScript, React Native and AI-assisted development workflows**.
 
-Morei e trabalhei na **Irlanda por 2 anos**, o que me deu fluência em inglês e experiência em ambientes multiculturais e de alta exigência. Hoje, de volta ao Brasil, estou totalmente focado em construir minha carreira como desenvolvedor e contribuir com times de alto impacto — **100% remoto**.
+I’m currently working on **AgendeAqui**, a mobile scheduling platform for clients, professionals and businesses, and **MEMOPet**, an app designed to help people with dementia through memory and reasoning activities.
 
----
+I have a degree in Systems Analysis and Development, fluent English, and previous international work experience in Ireland. I’m looking for my first official opportunity as a developer in a remote or international team.
 
-🇬🇧 **EN**
+## Tech Stack
 
-Back-End Developer specialized in **Java + Spring Boot**, with a degree in Systems Analysis and Development. I'm passionate about building robust, scalable, and well-documented APIs.
+**Backend:** Java, Spring Boot, REST APIs, JPA/Hibernate, PostgreSQL  
+**Frontend/Mobile:** TypeScript, React Native, JavaScript, HTML, CSS  
+**Tools:** Git, GitHub, Docker, Postman, AI coding tools
 
-I lived and worked in **Ireland for 2 years**, which gave me full English fluency and experience in high-demand, multicultural environments. Currently based in Brazil, I'm fully focused on building my tech career and contributing to high-impact teams — **100% remote**.
+## Current Focus
 
+- Building full-stack and mobile apps
+- Improving real-world product development skills
+- Creating professional portfolio projects
+- Growing as an AI-assisted software developer
 ---
 
 ## 🛠️ Tech Stack
