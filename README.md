@@ -4,7 +4,7 @@ Junior Full-Stack / Mobile Developer focused on building real-world applications
 
 I'm currently building **AgendeAqui**, a mobile scheduling platform for clients, professionals and businesses, and **MEMOPet**, an app designed to help people with dementia exercise memory and reasoning skills.
 
-I have a degree in Systems Analysis and Development, fluent English, and previous international work experience in Ireland. I'm looking for my first official opportunity as a developer in a remote or international team.
+I have a degree in Systems Analysis and Development, fluent English, and previous international work experience in Ireland. IOpen to remote junior and entry-level software development opportunities in international teams.
 
 ---
 
