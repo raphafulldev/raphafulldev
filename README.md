@@ -55,7 +55,7 @@ I have a degree in Systems Analysis and Development, fluent English, and previou
 
 ## Contact
 
-Open to remote junior, internship and entry-level software development opportunities.
+Open to remote junior and entry-level software development opportunities.
 
 <p>
   <a href="https://github.com/raphafulldev">
