@@ -1,4 +1,4 @@
-# Hi, I'm Raphael Barreto 👋
+# Hi, I'm Raphael Barreto 🖖🏻 
 
 Junior Software Developer focused on building and improving real-world applications with <strong>Java, Spring Boot, TypeScript and React Native</strong>.
 
