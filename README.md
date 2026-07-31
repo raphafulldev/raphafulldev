@@ -5,8 +5,7 @@ Junior Software Developer focused on building and improving real-world applicati
 I currently contribute to **AgendeAqui**, a production scheduling platform available on mobile and web, and I built **MemoPet**, an offline-first mobile application focused on memory, routines and accessible interaction for people with cognitive decline.
 
 I have a degree in Systems Analysis and Development, fluent English, and previous international work experience in Ireland. I'm open to remote junior and entry-level software development opportunities in Brazil and international teams.
-
-https://raphafulldev.github.io/
+<a href="https://raphafulldev.github.io/">
 ---
 
 ## About Me
