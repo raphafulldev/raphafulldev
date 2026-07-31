@@ -2,11 +2,11 @@
 
 Junior Software Developer focused on building and improving real-world applications with <strong>Java, Spring Boot, TypeScript and React Native</strong>.
 
-<br>
+
 
 I currently contribute to <strong>AgendeAqui</strong>, a production scheduling platform available on mobile and web, and I built <strong>MemoPet</strong>, an offline-first mobile application focused on memory, routines and accessible interaction for people with cognitive decline.
 
-<br>
+
 
 I have a degree in Systems Analysis and Development, fluent English, and previous international work experience in Ireland. I'm open to remote junior and entry-level software development opportunities in Brazil and international teams.
 
@@ -15,7 +15,7 @@ I have a degree in Systems Analysis and Development, fluent English, and previou
 <a href="https://raphafulldev.github.io/" target="_blank" rel="noopener noreferrer" style=" display: inline-block; padding: 12px 24px; background-color: #2563eb; color: white; font-weight: bold; text-decoration: none; border-radius: 8px; font-size: 16px; ">
 VIEW MY PORTFOLIO
 </a>
----
+
 
 ## About Me
 
