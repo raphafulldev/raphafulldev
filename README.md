@@ -6,7 +6,7 @@ I currently contribute to **AgendeAqui**, a production scheduling platform avail
 
 I have a degree in Systems Analysis and Development, fluent English, and previous international work experience in Ireland. I'm open to remote junior and entry-level software development opportunities in Brazil and international teams.
 <a href="
-  /p
+  <br>
 https://raphafulldev.github.io/" target="_blank" rel="noopener noreferrer">
   PORTFOLIO
 </a>
